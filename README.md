@@ -3,7 +3,7 @@
 </h1>
 
 I'm Johan, a Informatic Student currently living in Cali, Colombia. I'm preparing at 
-<a href="https://www.uao.edu.co">Universidad Autónoma de Occidente</a>, 
+<a href="https://www.uao.edu.co">Universidad Autónoma de Occidente</a> 
 and learning programming through engineering projects.
 
 <br>
