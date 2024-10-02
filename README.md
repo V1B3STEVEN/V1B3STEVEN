@@ -1,10 +1,11 @@
 <h1 align="center">
-  <b>Hey! 👋</b>
+  <b>Hey! I'm Steven 👋</b>
 </h1>
 
-I'm Johan, a Informatic Student currently living in Cali, Colombia. I'm preparing at 
+I'm Informatic Student currently living in Cali, Colombia. I'm preparing at 
 <a href="https://www.uao.edu.co">Universidad Autónoma de Occidente</a> 
 and learning programming through engineering projects.
+
 
 <br>
 
@@ -16,16 +17,25 @@ and learning programming through engineering projects.
 </div>
 </p>
 
-class ese.teven():
-    
-  def __init__(self):
-    self.name = "Johan Steven Trujillo Gordillo";
-    self.username = "V1B3STEVEN";
-    self.location = "Cali, Colombia";
-    self.twitter = "@ese_teven";
-  
-  def __str__(self):
-    return self.name
+## Me
 
-if __name__ == '__main__':
-    me = V1B3STEVEN()
+ ```python
+  class WhoAmI:
+    user = 'V1B3STEVEN'
+	current_edu = "UAO"
+    currently_learning = "Javascript"
+	hobbies = [
+				'Music',
+                         'Literature',
+				'Pics'
+			]
+	
+	def getCity():
+		return Cali_Colombia()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyLifeProjects()
+	
+ ```
+
