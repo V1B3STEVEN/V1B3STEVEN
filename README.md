@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Johan Trujillo</b>
+  <b>Hey! I'm Johan Trujillo</b>
 </h1>
 
 Hey! I'm Johan, a Informatic Student currently living in Cali, Colombia. I'm preparing at 
@@ -16,8 +16,7 @@ and learning programming through engineering projects.
 </div>
 </p>
 
-```python
-class AbhigyanTrips():
+class ese.teven():
     
   def __init__(self):
     self.name = "Johan Steven Trujillo Gordillo";
@@ -30,10 +29,3 @@ class AbhigyanTrips():
 
 if __name__ == '__main__':
     me = V1B3STEVEN()
-```
-
-<div align="center">
-  <a href="https://open.spotify.com/user/315v7nsuypivrvxxpzhmqhofo2dm?si=994f925926f34e49">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdn2D2wgSTGJ_K96X06vLpJyRXxEQgC7sFPQ&s">
-  </a>
-</div>
