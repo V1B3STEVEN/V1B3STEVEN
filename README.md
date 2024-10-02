@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Hey! I'm Johan Trujillo</b>
+  <b>Hey! 👋</b>
 </h1>
 
-Hey! I'm Johan, a Informatic Student currently living in Cali, Colombia. I'm preparing at 
+I'm Johan, a Informatic Student currently living in Cali, Colombia. I'm preparing at 
 <a href="https://www.uao.edu.co">Universidad Autónoma de Occidente</a>, 
 and learning programming through engineering projects.
 
